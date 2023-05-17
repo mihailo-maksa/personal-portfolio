@@ -8,3 +8,5 @@ A list of the projects that I've worked on in during my career, and the results 
 - List the "VP of Blockchain Engineering (at TokenFlow)" as your current job position on your LinkedIn, resume and personal website
 
 - OPTION B: Just list your audit results and let them speak for themselves!
+
+**DON'T FORGET TO MAKE THIS REPO PUBLIC LATER ON!!! (It's also recommended to make it one of your pinned repos, preferably in the first row for the pinned repos)**
