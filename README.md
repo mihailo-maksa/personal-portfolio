@@ -7,7 +7,7 @@
 - My projects range from small experiments to full-fledged applications, and all of them use **the latest web3 and related technologies.**
 
 ### 2.) Open Source Contributions
-- I've actively enhanced the functionality and user experience of various **open-source web3 protocols and dApps,** enhancing their functionality and user experience, reflecting my dedication to the decentralized web evolution.
+- I've actively enhanced the functionality and user experience of various **open-source web3 protocols and dApps,** reflecting my dedication to the decentralized web evolution.
 - Some notable examples include **MetaMask, Aave and Uniswap v3.**
 
 ### 3.) ScaleRoad LLC
@@ -31,5 +31,5 @@
 - Each audit has resulted in **exceptional scores and no critical bugs were found.** See **[audit 1](https://hacken.io/wp-content/uploads/2022/09/MAJR_INC_SCAudit_Report2.docx.pdf)** and **[audit 2](https://hacken.io/wp-content/uploads/2022/09/MAJR-INC_09-19-2022_SCAudit_Report3-1.pdf)** for more details.
 
 ### 8.) TokenFlow
-- **[TokenFlow](https://tokenflow.ai)** is a **smart contract development agency** specialized in building custom-made solutions tailored to individual project's needs and requirements.
+- **[TokenFlow](https://tokenflow.ai)** is a premier **smart contract development agency** specialized in building custom-made solutions tailored to individual project's needs and requirements.
 - I'm **responsible for prompt project deliveries** and **leading the in-house engineering team.**
