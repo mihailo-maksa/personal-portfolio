@@ -1,1 +1,0 @@
-## Here's the list of some of the most important smart contracts that I've built so far:
