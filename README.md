@@ -30,6 +30,10 @@
 - The smart contracts that I've developed were **audited multiple times by [Hacken](https://hacken.io),** a leading smart contract security auditor.
 - Each audit has resulted in **exceptional scores and no critical bugs were found.** See **[audit 1](https://hacken.io/wp-content/uploads/2022/09/MAJR_INC_SCAudit_Report2.docx.pdf)** and **[audit 2](https://hacken.io/wp-content/uploads/2022/09/MAJR-INC_09-19-2022_SCAudit_Report3-1.pdf)** for more details.
 
-### 8.) TokenFlow / Senior Smart Contract Engineer (May 2023 - Present)
+### 8.) TokenFlow / Senior Smart Contract Engineer (May 2023 - December 2023)
 - **[TokenFlow](https://tokenflow.ai)** is a **premier smart contract development agency** specialized in building custom-made solutions for web3 clients.
 - I'm leading the **design and development of complex smart contract systems,** ensuring best practices and security.
+
+### 8.) Intuition Systems, Inc. / Senior Smart Contract Engineer (January 2024 - Present)
+- **[Intuition](https://intuition.systems)** is empowering people to build, explore, curate, and own a **communal knowledge graph** to more reliably navigate our exponential world.
+- **I'm developing and enhancing smart contracts of the Intuition Protocol** and contributing to the growth of the Intuition ecosystem.
